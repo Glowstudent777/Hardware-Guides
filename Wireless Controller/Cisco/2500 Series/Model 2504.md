@@ -2,7 +2,7 @@
 
 | Question | Answer |
 | -------- | ------ |
-| Enable Link Aggregation | No |
+| Enable Link Aggregation (LAG) | No |
 | Management Interface IP Address | 192.168.1.10 |
 | Management Interface Netmask | 255.255.255.0 |
 | Management Interface Default Router | 192.168.1.1 |
@@ -18,8 +18,9 @@
 | Configure a RADIUS Server now | No |
 | Enable 802.11b Network | No |
 | Enable 802.11a Network | Yes |
-| Auto-RF | Yes |
-| Configure NTP server now | No |
+| Enable Auto-RF | Yes |
+| Configure a NTP server now | No |
+| Configure the system time now? | Up to you |
 | Would you like to configure IPv6 parameters | No |
 
 # Information
